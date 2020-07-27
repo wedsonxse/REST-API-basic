@@ -1,0 +1,17 @@
+{
+  "name": "basic-rest",
+  "version": "1.0.0",
+  "description": "basic rest api project using express, node and mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node loader.js"
+  },
+  "author": "wedson soares",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25",
+    "node-restful": "^0.2.6"
+  }
+}
